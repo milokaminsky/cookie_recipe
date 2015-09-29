@@ -1,0 +1,21 @@
+html{
+	border-style: solid;
+	border-width: medium;
+	border-color: black;
+}
+body{
+	background-color: #FFE;
+	
+}
+img{
+	border-style: solid;
+	border-wdith: medium;
+	border-color: black;
+}
+h3{
+	color: #887;
+	font-style: italic;
+}
+a{
+	color: #900;
+}
